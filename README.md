@@ -30,3 +30,8 @@ I’m always on the lookout for a friend to share a cup of coffee and engage in 
 - Blockchain Company (Software Engineer):
   - CUDA Optimization: Optimized algorithms based on go-ethereum code for custom blockchain performance, achieving over 1000x mining performance improvement using concurrency GPU programming (CUDA) with 4x RTX 3090 GPUs.
   - Internal Study Lead: Led study groups in cryptography, graph theory, and algorithms.
+
+## Contacts
+
+- [Telegram](https://www.t.me/fuzzzzzing), [Discord](https://discordapp.com/users/poly_hedra)
+- [Instagram](https://www.instagram.com/dualmonitor.dev/), [X/twitter](https://x.com/public_dev_)
