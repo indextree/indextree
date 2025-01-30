@@ -14,8 +14,8 @@ I’m always on the lookout for a friend to share a cup of coffee and engage in 
 
 ## Awards & Programs
 
-- KMO(Korean Mathematical Olympiad) Silver Medal, 2017
-- KOI(Korean Informatics Olympiad) Bronze Medal, 2019
+- KMO(Korean Mathematical Olympiad) Silver Prize, 2017
+- KOI(Korean Informatics Olympiad) Bronze Prize, 2019
 - Finished KMO & KOI National Team Training Camp, which aims to select IMO & IOI candidates.
 - UCPC(Korean Local Collegiate Programming Contest) 2020 Contest Setter, 2024 Finals 26th place
 - Was a builder at Invisible Garden (Chiang Mai, 2024)
