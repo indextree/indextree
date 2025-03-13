@@ -22,7 +22,7 @@ I’m always on the lookout for a friend to share a cup of coffee and engage in 
 
 ## Work Experience
 
-- Nethermind (Intern): 2024. 02 - 2024. 05
+- Nethermind (Intern): 2025. 02 - 2025. 05
 - Ethereum Foundation (Grantee): 2024-
 - Quant Trading Company (Software Engineer):
   - Improved arbitrage programs, primarily working on arbitrage-related tasks using Golang.
